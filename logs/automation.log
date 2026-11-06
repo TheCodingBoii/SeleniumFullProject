@@ -1,0 +1,5 @@
+2026-11-05 11:23:15 [main] INFO  base.BaseClass - Log file cleaned: logs/automation.log
+2026-11-05 11:23:16 [main] INFO  base.BaseClass - Testcase Automating with: chrome
+2026-11-05 11:23:20 [main] INFO  testCases.TC001_Links - ***Starting TC001_Links***
+2026-11-05 11:23:20 [main] INFO  testCases.TC001_Links - Verifying Link page is working as expected
+2026-11-05 11:23:26 [main] INFO  base.BaseClass - Testcase Automating with: chrome
